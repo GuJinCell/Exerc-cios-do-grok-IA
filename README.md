@@ -1,6 +1,6 @@
 # Exercícios-do-grok-IA
 
-A meu pedido, a Grok IA do xAI criou exercícios de Python, e eu os respondo para que a IA corrija. Este repositório contém os notebooks `.ipynb` com minhas soluções para as lições diárias, organizadas por dia. O objetivo é aprender Python de forma progressiva, no estilo Duolingo, com questões que aumentam em complexidade.
+A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para que a IA corrija. Este repositório contém os notebooks `.ipynb` com minhas soluções para as lições diárias, organizadas por dia. O objetivo é aprender Python de forma progressiva, no estilo Duolingo, com questões que aumentam em complexidade.
 
 ## Estrutura
 - Cada pasta ou arquivo `.ipynb` corresponde a uma lição diária (ex.: `Dia1.ipynb`, `Dia2.ipynb`, etc.).
@@ -19,4 +19,4 @@ A meu pedido, a Grok IA do xAI criou exercícios de Python, e eu os respondo par
 3. Contribuições ou sugestões são bem-vindas!
 
 ## Agradecimentos
-Agradeço à Grok IA do xAI por criar e corrigir os exercícios, ajudando no meu aprendizado de Python!
+Agradeço à Grok IA do X por criar e corrigir os exercícios, ajudando no meu aprendizado de Python!
