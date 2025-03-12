@@ -7,14 +7,14 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - As questões cobrem conceitos como strings, listas, loops, booleanos, operações matemáticas e funções.
 
 ## Progresso
-- **Dia 1 (05/03/2025):** Questões básicas de strings, listas e loops.
-- **Dia 2 (06/03/2025):** Combinação de strings, listas e condições.
-- **Dia 3 (07/03/2025):** Loops e manipulação de listas com condições.
-- **Dia 4 (08/03/2025):** Introdução a funções e lógica mais complexa.
-- **Dia 5 (09/03/2025):** Funções, listas e condições aninhadas.
-- **Dia 6 (10/03/2025):** Manipulação de strings, funções e introdução a dicionários.
-- **Dia 7 (11/03/2025):** Contagem em strings, listas aninhadas e dicionários com cálculos.
-- **Dia 8 (12/03/2025):** Transformação de strings, listas com funções e sequência de Fibonacci.
+- **Dia 1 (04/03/2025):** Questões básicas de strings, listas e loops.
+- **Dia 2 (05/03/2025):** Combinação de strings, listas e condições.
+- **Dia 3 (06/03/2025):** Loops e manipulação de listas com condições.
+- **Dia 4 (07/03/2025):** Introdução a funções e lógica mais complexa.
+- **Dia 5 (08/03/2025):** Funções, listas e condições aninhadas.
+- **Dia 6 (09/03/2025):** Manipulação de strings, funções e introdução a dicionários.
+- **Dia 7 (10/03/2025):** Contagem em strings, listas aninhadas e dicionários com cálculos.
+- **Dia 8 (11/03/2025):** Transformação de strings, listas com funções e sequência de Fibonacci.
 
 ## Como Usar
 1. Clone o repositório: `git clone https://github.com/GuJinCell/Exerc-cios-do-grok-IA.git`
