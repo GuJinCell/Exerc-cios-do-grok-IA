@@ -18,6 +18,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 9 (12/03/2025):** Filtros em strings, manipulação de listas e dicionários com transformação.
 - **Dia 10 (13/03/2025):** Palíndromos, intercalação de listas e triângulos de asteriscos.
 - **Dia 11 (14/03/2025):** Contagem de vogais, transformação de listas, médias em dicionários, primos e soma de dígitos.
+- **Dia 12 (15/03/2025):** Substituição em strings, filtros em listas, contagem em dicionários, triângulo invertido e fatorial.
 
 ## Como Usar
 1. Clone o repositório: `git clone https://github.com/GuJinCell/Exerc-cios-do-grok-IA.git`
