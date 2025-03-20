@@ -23,6 +23,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 14 (17/03/2025):** Capitalização de palavras, soma em listas, salários acima da média, contagem em arquivos e MDC.
 - **Dia 15 (18/03/2025):** Frequência de palavras, rotação de listas, agrupamento por notas, soma de números em arquivo e palíndromos.
 - **Dia 16 (19/03/2025):** Substituição de palavras, soma em índices pares, preços acima da média, filtro de nomes em arquivo e sequência de Fibonacci.
+- **Dia 17 (20/03/2025):** Contagem de vogais, remoção de repetidos, atualização de idades, transformação de frases em arquivo e soma em tuplas.
 
 ## Como Usar
 1. Clone o repositório: `git clone https://github.com/GuJinCell/Exerc-cios-do-grok-IA.git`
