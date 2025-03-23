@@ -25,6 +25,9 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 16 (19/03/2025):** Substituição de palavras, soma em índices pares, preços acima da média, filtro de nomes em arquivo e sequência de Fibonacci.
 - **Dia 17 (20/03/2025):** Contagem de vogais, remoção de repetidos, atualização de idades, transformação de frases em arquivo e soma em tuplas.
 - **Dia 18 (21/03/2025):** Interseção com sets, rotação condicional de listas, filtro em dicionários com sets, transformação de arquivos e soma de tuplas únicas.
+- **Dia 19 (22/03/2025):** Diferença simétrica em strings com sets, remoção de duplicatas preservando ordem, agrupamento de nomes por hobbies, contagem de palavras únicas em arquivo e soma exclusiva em tuplas.
+
+
 
 
 ## Como Usar
