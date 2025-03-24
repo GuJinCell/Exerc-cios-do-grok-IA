@@ -26,6 +26,9 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 17 (20/03/2025):** Contagem de vogais, remoção de repetidos, atualização de idades, transformação de frases em arquivo e soma em tuplas.
 - **Dia 18 (21/03/2025):** Interseção com sets, rotação condicional de listas, filtro em dicionários com sets, transformação de arquivos e soma de tuplas únicas.
 - **Dia 19 (22/03/2025):** Diferença simétrica em strings com sets, remoção de duplicatas preservando ordem, agrupamento de nomes por hobbies, contagem de palavras únicas em arquivo e soma exclusiva em tuplas.
+- **Dia 20 (23/03/2025):** União de palavras com sets, filtro de listas por frequência com Counter, inversão de dicionário com sets, arquivo com palavras reversas únicas, contagem de pares distintos com soma par em tuplas; início da separação de lições a cada 10 dias.
+
+
 
 
 
