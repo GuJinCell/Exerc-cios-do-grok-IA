@@ -29,6 +29,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 20 (23/03/2025):** União de palavras com sets, filtro de listas por frequência com Counter, inversão de dicionário com sets, arquivo com palavras reversas únicas, contagem de pares distintos com soma par em tuplas; início da separação de lições a cada 10 dias.
 - **Dia 21 (24/03/2025):** Contagem de letras distintas por palavra, intercalação de listas, pares com soma igual à chave em dicionário, filtro de linhas com palavras longas em arquivo, tupla com maior máximo entre distintas.
 - **Dia 22 (25/03/2025)**: Palavras com letras repetidas usando sets, soma de elementos únicos com diferença simétrica, caractere mais frequente em dicionário com Counter, arquivo de números pares ordenados, tupla com menor diferença absoluta.
+- **Dia 23 (26/03/2025):** Palavras com exatamente duas vogais distintas usando sets, diferenças absolutas entre listas, dicionário com palavras invertidas exceto palíndromos, arquivo de linhas curtas (<10 caracteres), tuplas com soma par em ordem decrescente.
 
 
 ## Como Usar
