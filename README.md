@@ -30,7 +30,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 21 (24/03/2025):** Contagem de letras distintas por palavra, intercalação de listas, pares com soma igual à chave em dicionário, filtro de linhas com palavras longas em arquivo, tupla com maior máximo entre distintas.
 - **Dia 22 (25/03/2025)**: Palavras com letras repetidas usando sets, soma de elementos únicos com diferença simétrica, caractere mais frequente em dicionário com Counter, arquivo de números pares ordenados, tupla com menor diferença absoluta.
 - **Dia 23 (26/03/2025):** Palavras com exatamente duas vogais distintas usando sets, diferenças absolutas entre listas, dicionário com palavras invertidas exceto palíndromos, arquivo de linhas curtas (<10 caracteres), tuplas com soma par em ordem decrescente.
-
+- **Dia 24 (27/03/2025):** Contagem de consoantes distintas com sets, soma de elementos únicos entre listas, dicionário de palavras por tamanho com sets, filtro de linhas com números em arquivo, tupla com maior produto.
 
 ## Como Usar
 1. Clone o repositório: `git clone https://github.com/GuJinCell/Exerc-cios-do-grok-IA.git`

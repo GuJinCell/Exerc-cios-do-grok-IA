@@ -1,0 +1,4 @@
+Olá mundo
+Python 3 é legal
+Apenas texto
+Código 42 aqui
