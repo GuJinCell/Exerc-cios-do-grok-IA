@@ -32,6 +32,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 23 (26/03/2025):** Palavras com exatamente duas vogais distintas usando sets, diferenças absolutas entre listas, dicionário com palavras invertidas exceto palíndromos, arquivo de linhas curtas (<10 caracteres), tuplas com soma par em ordem decrescente.
 - **Dia 24 (27/03/2025):** Contagem de consoantes distintas com sets, soma de elementos únicos entre listas, dicionário de palavras por tamanho com sets, filtro de linhas com números em arquivo, tupla com maior produto.
 - **Dia 25 (28/03/2025):** Lista de palavras com vogais únicas usando list comprehension, soma de quadrados de pares com set comprehension, frequência de letras com try-except, numeração de linhas em arquivo, tuplas ordenadas por diferença com sorted.
+- **Dia 26 (29/03/2025):** Filtro de palavras por comprimento com dict comprehension, números divisíveis com try-except, contagem de palavras em arquivo com erro, soma condicional com função aninhada, tuplas com máximo relativo usando list comprehension.
 
 
 ## Como Usar
