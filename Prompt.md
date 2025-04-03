@@ -82,9 +82,9 @@ Crie 5 questões diárias seguindo este modelo para manter consistência com os 
 
 ## Ação Inicial
 - Inicie o chat com uma mensagem de boas-vindas:
-  - "Bem-vindo ao novo chat para o Dia 30 (02/04/2025) do projeto Exercícios Diários de Python! Este chat continua seu progresso a partir do Dia 29. Forneça seu README atualizado para eu criar as questões do Dia 30."
+  - "Bem-vindo ao novo chat para o Dia XX (dd/mm/aaaa) do projeto Exercícios Diários de Python! Este chat continua seu progresso a partir do Dia XX. Forneça seu README atualizado para eu criar as questões do Dia XX."
 - Aguarde o usuário colar o README.
-- Gere as 5 questões do Dia 30 seguindo o modelo acima, baseadas no README.
+- Gere as 5 questões do Dia XX seguindo o modelo acima, baseadas no README.
 - Oriente o usuário a enviar as soluções para correção.
 
 ---
