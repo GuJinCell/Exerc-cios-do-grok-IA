@@ -36,6 +36,8 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 27 (30/03/2025):** Dicionário de pares únicos com set e dict comprehension, divisão segura com múltiplos erros, filtro de linhas por palavra em arquivo com try-except, média condicional com função aninhada, tuplas com soma acima da média usando list comprehension.
 - **Dia 28 (31/03/2025):** Contagem de letras por tipo com dict comprehension, filtro de números com critério e exceções, substituição em arquivo com try-except, transformação condicional com função aninhada, tuplas ordenadas por diferença com sorted.
 - **Dia 29 (01/04/2025):** Inversão de palavras por tamanho com dict comprehension, conversão segura de tipos com múltiplas exceções, contagem de palavras únicas em arquivo com try-except, soma recursiva em lista aninhada, tuplas com produto máximo usando max e lambda.
+- **Dia 30 (03/04/2025):** Contagem de palavras por número total de vogais com dict comprehension, soma segura em lista aninhada com recursão, filtro de arquivo com lambda, transformação de dicionário com sets, tuplas com maior frequência usando Counter.
+
 
 ## Como Usar
 1. Clone o repositório: `git clone https://github.com/GuJinCell/Exerc-cios-do-grok-IA.git`
