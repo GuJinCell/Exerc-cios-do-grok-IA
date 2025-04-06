@@ -38,6 +38,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 29 (01/04/2025):** Inversão de palavras por tamanho com dict comprehension, conversão segura de tipos com múltiplas exceções, contagem de palavras únicas em arquivo com try-except, soma recursiva em lista aninhada, tuplas com produto máximo usando max e lambda.
 - **Dia 30 (03/04/2025):** Contagem de palavras por número total de vogais com dict comprehension, soma segura em lista aninhada com recursão, filtro de arquivo com lambda, transformação de dicionário com sets, tuplas com maior frequência usando Counter.
 - **Dia 31 (04/04/2025)**:** Substituição recursiva em string, agrupamento de números por divisores com dict comprehension, filtro de arquivo com contagem e try-except, interseção de listas com lambda, tuplas ordenadas por soma recursiva.
+- **Dia 32 (05/04/2025):** Inversão de palavras com recursão e condição, dicionário de frequência com set comprehension, transformação de arquivo com try-except e lambda, filtragem de dicionário aninhado por valores recursivos, soma de elementos com frequência par usando Counter.
 
 
 ## Como Usar
