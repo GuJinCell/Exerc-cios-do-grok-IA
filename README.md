@@ -41,6 +41,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 32 (05/04/2025):** Inversão de palavras com recursão e condição, dicionário de frequência com set comprehension, transformação de arquivo com try-except e lambda, filtragem de dicionário aninhado por valores recursivos, soma de elementos com frequência par usando Counter.
 - **Dia 33 (06/04/2025):** Concatenar palavras recursivamente com filtro, dicionário de pares com list comprehension, substituição em arquivo com try-except e set, filtrar tuplas recursivamente com lambda, contagem de palavras com Counter em arquivo.
 - **Dia 34 (07/04/2025):** Inversão recursiva de substrings, dicionário de diferenças com dict comprehension, transformação de arquivo com filtro de palavras, contagem recursiva de números em estrutura aninhada, agrupamento de palavras por comprimento em arquivo.
+- **Dia 35 (08/04/2025):** Rotação recursiva de palavras, dicionário de médias com dict comprehension, inversão de linhas em arquivo com try-except, filtragem de palavras por prefixo em arquivo, soma recursiva de valores únicos em estrutura.
 
 
 ## Como Usar
