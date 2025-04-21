@@ -44,6 +44,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 35 (08/04/2025):** Rotação recursiva de palavras, dicionário de médias com dict comprehension, inversão de linhas em arquivo com try-except, filtragem de palavras por prefixo em arquivo, soma recursiva de valores únicos em estrutura.
 - **Dia 36 (09/04/2025):** Substituição recursiva de vogais, dicionário de divisores com gerador, numeração de palavras em arquivo, filtragem recursiva de tuplas, contagem de palavras com gerador.
 - **Dia 37 (10/04/2025):** Inversão recursiva de palavras, gerador de números primos, contagem de letras em arquivo, filtragem recursiva de listas aninhadas, decorador para registro de erros.
+- **Dia 38 (11/04/2025):** Contagem de palavras por tamanho, mesclagem de arquivos de texto, filtro de números por propriedade, classe para gerenciar contatos, substituição condicional em arquivo.
 
 ## Como Usar
 1. Clone o repositório: `git clone https://github.com/GuJinCell/Exerc-cios-do-grok-IA.git`
