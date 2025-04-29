@@ -1,0 +1,5 @@
+casa sol
+teste um
+lua python
+dois tres
+Total de palavras: 8
