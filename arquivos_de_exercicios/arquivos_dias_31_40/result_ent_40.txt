@@ -1,0 +1,4 @@
+Casa sol
+teste casa
+
+Total de linhas com 'casa': 2
