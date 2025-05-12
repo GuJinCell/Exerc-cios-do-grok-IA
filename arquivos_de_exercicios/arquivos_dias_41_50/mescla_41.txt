@@ -1,0 +1,4 @@
+Casa sol
+Teste python
+
+Soma dos comprimentos: 20
