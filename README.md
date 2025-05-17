@@ -48,6 +48,7 @@ A meu pedido, a Grok IA do X criou exercícios de Python, e eu os respondo para 
 - **Dia 39 (23/04/2025):** Filtro recursivo por sufixo, mesclagem de arquivos com contagem, classe para tarefas, iterador de pares, substituição condicional com lambda.
 - **Dia 40 (01/05/2025):** Inversão recursiva de palavras, agrupamento de linhas por palavra-chave, herança em classes de produtos, serialização JSON, filtro recursivo de listas aninhadas.
 - **Dia 41 (12/05/2025):** Contagem recursiva de palavras únicas, mesclagem de arquivos com filtro de tamanho, herança para gerenciamento de funcionários, validação de datas em JSON, testes unitários para filtro de números.
+- **Dia 42 (13/05/2025):** Filtragem recursiva de strings por padrão, junção de arquivos com ordenação, herança para gerenciamento de projetos, parsing de CSV com validação, testes unitários para função de agregação.
 
 
 ## Como Usar
